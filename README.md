@@ -1,4 +1,4 @@
-# F2020_CVProject
+# Fall 2020 -Computer Vision Project
 Fall semester project for CV course
 
 
